@@ -25,7 +25,7 @@ SECRET_KEY = 'sf#46jk%_2yye&1^^7t*yd$1!r&c@xcrw&rd#gqg5$c+oz8u$s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [daringa.pythonanywhere.com]
 
 
 # Application definition
